@@ -86,7 +86,7 @@ firebase.initializeApp(config);
     var trainArrival = moment().diff(moment(milTime, "X"), "minutes");
     console.log(trainArrival);
   
-    // Calculate the total billed rate
+    // Calculate minutes until next arrival
     var minAway = milTime * freQuency;
     console.log(minAway);
 

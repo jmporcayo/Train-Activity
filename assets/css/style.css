@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://github.com/jmporcayo/Train-Activity/blob/master/assets/images/trainhwbackground.jpg?raw=true);
+}
+.card{
+    opacity: 0.6;
+}
+
+.jumbotron{
+    opacity: 0.5;
+}
